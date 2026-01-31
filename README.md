@@ -14,7 +14,7 @@ microcontroller laboratory course.
 - **Architecture:** 8-bit
 - **Language:** PIC Assembly
 - **Assembler:** MPLAB XC8
-- **IDE:** MPLAB X IDE
+- **IDE:** MPLAB X IDE v6.25
 - **Simulation:** PICSimLab
 
 ---
