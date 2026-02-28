@@ -6,7 +6,7 @@ This laboratory experiment implements a 4-digit multiplexed 7-segment display co
 
 ## 🔧 Environment
 
-* **Microcontroller:** PIC16F84A / PIC16F877A
+* **Microcontroller:** PIC16F877A
 * **Architecture:** 8-bit
 * **Language:** PIC Assembly
 * **Assembler:** MPLAB XC8 (pic-as)
